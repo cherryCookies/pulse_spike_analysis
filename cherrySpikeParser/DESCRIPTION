@@ -1,0 +1,8 @@
+Package: cherrySpikeParser
+Title: parsing younging files
+Version: 1.0.0.0
+Authors@R: person("Charyeong", "Heo", , "charyeong.heo@gmail.com", role = c("aut", "cre"), comment = c(ORCID = "0009-0000-7428-4219"))
+Description: parse spike files given by youngin
+License: GPL-2
+Encoding: UTF-8
+RoxygenNote: 7.3.1
